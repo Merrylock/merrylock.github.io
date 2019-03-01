@@ -1,7 +1,7 @@
 # Site settings
 title: Decent Realm
 SEOTitle: Merrylock | Blog
-header-img: "https://cl.ly/239981a29bb7"
+header-img: "https://github.com/Merrylock/merrylock.github.io/blob/master/img/Desktop%20Screenshot%202017.10.27%20-%2006.20.05.68.png?raw=true"
 email: 
 description: Just a HARDCORE life player
 keyword: "Merrylock, Life player, 宇"
@@ -12,7 +12,7 @@ github_repo:
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Keep walking"
-sidebar-avatar: https://plus.google.com/u/0/photos/109541318094875460405/albums/profile/6279120954051498210?iso=false      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: "https://avatars3.githubusercontent.com/u/48102387?s=400&u=688bd4bc9710b83b22b76471ed5015d458251696&v=4"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
